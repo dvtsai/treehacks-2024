@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Mx2125
+#######################################
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Mx2125	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2) Public
+#######################################
+mx_acceleration_x	KEYWORD2
+mx_acceleration_y	KEYWORD2
+mx_rotation	KEYWORD2
+mx_tilt_x	KEYWORD2
+mx_tilt_y	KEYWORD2
+mx_temperature	KEYWORD2
+#######################################
+# Methods and Functions (KEYWORD3) Private
+#######################################
+#mx_acceleration	KEYWORD3
+#mx_tilt	KEYWORD3
+#xPin	KEYWORD3
+#yPin	KEYWORD3
+#tPin	KEYWORD3

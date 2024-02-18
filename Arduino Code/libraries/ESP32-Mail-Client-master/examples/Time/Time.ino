@@ -1,0 +1,15 @@
+/**
+ * Created by K. Suwatchai (Mobizt)
+ * 
+ * Email: k_suwatchai@hotmail.com
+ * 
+ * Github: https://github.com/mobizt
+ * 
+ * Copyright (c) 2019 mobizt
+ *
+*/
+
+///////////////////////////////////////////////////////////////////////////////////////////
+// The new Email Client is available here https://github.com/mobizt/ESP-Mail-Client
+// This library is deprecated.
+///////////////////////////////////////////////////////////////////////////////////////////
