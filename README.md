@@ -2,7 +2,7 @@
 
 ## Overview 
 This repository contains our code for our project for TreeHacks 2024. Our goal was to make an autonomous agricultural robot for real-time plant monitoring to automate the plant cutting process. In the span of 36 hours, we designed the hardware, developed the computer vision software, and integrated the software solution onto the hardware to simulate plant cutting. Our team is made up of:
-* Daphne Tsai (dvtsai@umich.edu): Master's in CS at the University of Michigan. Focus: robot perception using deep learning and computer vision
+* Daphne Tsai (dvtsai@umich.edu): Master's in CS at the University of Michigan. Focus: deep learning and computer vision in robot perception
 * Annabelle Chu (annabelle.chu@duke.edu): Junior in ECE/CS at Duke University. Focus: mechatronics
 * Leon Lenk (leonlenk@gmail.com): Sophomore in CS at UCLA. Focus: machine learning
 * Nick Cuneo (nfcuneo@asu.edu): Sophomore in CS at ASU. Focus: mechanical engineering 
